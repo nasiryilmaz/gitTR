@@ -10,8 +10,7 @@
 			<li>item 6 </li>
 			</ul>
 	</module-one>
-	<<<<<<<< HEAD
-	
+		##################
 	</module-two>
 	<div>My Content</div>
 	</module-two>
